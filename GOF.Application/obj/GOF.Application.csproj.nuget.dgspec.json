@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VHSilva\\Documents\\Cursos\\CSharp\\GOF\\GOF\\GOF.Application\\GOF.Application.csproj": {}
+    "C:\\Users\\VHSilva\\Documents\\GIT\\GOF\\GOF.Application\\GOF.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VHSilva\\Documents\\Cursos\\CSharp\\GOF\\GOF\\GOF.Application\\GOF.Application.csproj": {
+    "C:\\Users\\VHSilva\\Documents\\GIT\\GOF\\GOF.Application\\GOF.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VHSilva\\Documents\\Cursos\\CSharp\\GOF\\GOF\\GOF.Application\\GOF.Application.csproj",
+        "projectUniqueName": "C:\\Users\\VHSilva\\Documents\\GIT\\GOF\\GOF.Application\\GOF.Application.csproj",
         "projectName": "GOF.Application",
-        "projectPath": "C:\\Users\\VHSilva\\Documents\\Cursos\\CSharp\\GOF\\GOF\\GOF.Application\\GOF.Application.csproj",
+        "projectPath": "C:\\Users\\VHSilva\\Documents\\GIT\\GOF\\GOF.Application\\GOF.Application.csproj",
         "packagesPath": "C:\\Users\\VHSilva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VHSilva\\Documents\\Cursos\\CSharp\\GOF\\GOF\\GOF.Application\\obj\\",
+        "outputPath": "C:\\Users\\VHSilva\\Documents\\GIT\\GOF\\GOF.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VHSilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
